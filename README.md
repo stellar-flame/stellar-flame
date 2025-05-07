@@ -8,4 +8,4 @@ I'm passionate about continuous learning, collaboration, and creating technology
 🔧 Skills: Java, Python, JavaScript, Spring, Hibernate, REST APIs, Game Development (Godot, Phaser.js), LLM-assisted coding
 🚀 Recent Projects: 2D browser games, coding with AI tools
 
-📄 [View My Resume]([https://github.com/stellar-flame/resume/])
+📄 [View My Resume](https://github.com/stellar-flame/resume/)
